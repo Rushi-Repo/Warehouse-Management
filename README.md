@@ -1,3 +1,3 @@
 # Warehouse-Management - Web application
 
-(Under developement)
+Working web application. 
